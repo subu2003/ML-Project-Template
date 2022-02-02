@@ -13,7 +13,7 @@ To predict the Laptop price
 10 OpSys -String- Operating System
 11 Weight -String- Laptop Weight
 12 Price_euros -Numeric- Price (Euro)
-## Target
+## Target Object
 Price
 ## Model(s) Used
 1.Linear regression
